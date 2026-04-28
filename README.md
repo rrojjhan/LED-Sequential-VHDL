@@ -18,6 +18,9 @@ leftButton  ──┐
                ├──► SIGNAL_SYNC ──► LEFT_PRESS_DETECT  ──► POSITION_DETECTOR ──► LED_MUX ──► leds[15:0]
 rightButton ──┘                    RIGHT_PRESS_DETECT ──►         │
                                                                    └──► BINARY_TO_DECIMAL ──► SevenSegmentDriver ──► sevenSegs / anodes
+
+<img width="1182" height="526" alt="AdobeExpressPhotos_4462a38f6041428c91681f5c75fdd1bb_CopyEdited" src="https://github.com/user-attachments/assets/3b1fe9f6-8e2f-443e-962a-56fc7b918b73" />
+
 ```
 
 | Component | Description |
