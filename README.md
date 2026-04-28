@@ -1,4 +1,4 @@
-# LED Sequential – VHDL Lab Project
+# LED Sequential 
 
 > **Designers:** Luis Mercado & Rachnicha Rojjhanarittikorn  
 > **Board:** Nexys A7 (Artix-7) – 100 MHz clock
